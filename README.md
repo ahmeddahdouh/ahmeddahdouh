@@ -20,7 +20,6 @@ I am a passionate full stack developer currently pursuing a **Master's degree in
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ## 🚀 Recent Projects
-- **VoiceDetector**: A project based on FastAPI using the Vosk API for voice recognition, featuring advanced recording and authentication capabilities.
 - **Online Booking System for Algérie Ferries**: Contributed to the development of business logic and front-end interaction control.
 
 ## 🎯 My Goals
