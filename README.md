@@ -28,11 +28,11 @@ I aim to deepen my backend development expertise and continue building innovativ
 Feel free to browse my repositories and reach out for collaboration or technical discussions. You can find me on [LinkedIn](https://www.linkedin.com/in/ahmed-dahdouh/).
 
 **Thank you for visiting my profile!**
-<!--
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ahmeddahdouh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmeddahdouh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddahdouh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=ahmeddahdouh&icon=0&color=0)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=ahmeddahdouh&icon=0&color=0)](https://visitcount.itsvg.in) 
 
